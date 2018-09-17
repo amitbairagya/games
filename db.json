@@ -2,5 +2,5 @@
   "games":[
   { "id": 1, "title": "Post 1", "cover": "1" },
     { "id": 2, "title": "Post 2", "cover": "2" }
-  ]"
+  ]
 }
